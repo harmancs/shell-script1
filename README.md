@@ -5,7 +5,7 @@ To run the script, just download it to any given directory and open terminal and
 I started my career as a Systems Engineer (after my undergraduate) and one part of our job as a fresher was to look out for problems with various Linux/RHEl servers. Autonomous monitoring system used to give us alerts regarding disk usage, memory usage and CPU usage of the servers. To login into every server and then check for all these statistics was a hectic job. It could have been easily automated.
 
 
-This is a menu driven script for System Administrators. I have added 10 options in the menu (can be extended according to the needs). Among all the options, one can be chosen at a time and run on any of the CCIS machines. The options in the menu are self explanatory so I will give a brief description of every command running in the background of respective menu options.
+This is a menu driven script for System Administrators. I have added 10 options in the menu (can be extended according to the needs). Among all the options, one can be chosen at a time and run on any of the Linux machines. The options in the menu are self explanatory so I will give a brief description of every command running in the background of respective menu options.
 
 
 # Explanation of the menu
